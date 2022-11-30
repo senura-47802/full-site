@@ -1,3 +1,3 @@
 # Site isn't developed yet.
-**End date of the site making process: 2023/01/15**.<br>
-**Site published at :LInk will be avaiable on 16 th January 2023**.
+**End date of the site making process: 2023/02/08**.<br>
+**Site published at :LInk will be avaiable on 9 th February 2023**.
